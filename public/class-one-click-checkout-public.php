@@ -172,5 +172,4 @@ class One_Click_Checkout_Public {
 		}
 		return $fields;
 	}
-
 }
